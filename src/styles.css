@@ -18,7 +18,7 @@
   top: 0;
   text-align: center;
   padding: top 20px;
-  font-family: "Helvetica Neue", sans-serif;
+  font-family: "Merienda One", cursive;
   color: white;
 }
 
@@ -36,4 +36,7 @@ footer {
 }
 .picture {
   font-size: 40px;
+}
+a {
+  color: white;
 }
